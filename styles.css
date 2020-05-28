@@ -18,9 +18,7 @@
     padding: 25px;
     text-decoration-line: underline;
 }
-.boxes {
-    margin-right: 1067px;
-    background-color: darksalmon;
-    padding: 10px;
-
+.images {
+    width: 20em;
+    height: 20em;
 }
