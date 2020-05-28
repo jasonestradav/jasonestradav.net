@@ -4,3 +4,23 @@
     margin-right: 110px;
     padding: 50px;
 }
+.text {
+    font-size: 92px;
+}
+.text1 {
+    text-transform: full-width;
+    font-size: 150%;
+    padding: 50px;
+}
+.text2 {
+    text-indent: 20px;
+    font-size: 150%;
+    padding: 25px;
+    text-decoration-line: underline;
+}
+.boxes {
+    margin-right: 1067px;
+    background-color: darksalmon;
+    padding: 10px;
+
+}
