@@ -1,3 +1,7 @@
-.navbar-nav li a {
-    font-family: Arial;
+.box {
+    background-color: darkgrey;
+    margin-left: 110px;
+    margin-right: 110px;
+    padding: 50px;
+
 }
