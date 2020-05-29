@@ -22,12 +22,10 @@
     width: 20em;
     height: 20em;
 }
-.card-body {
-    text-align: center;
-}
 .flex-container {
     display: flex;
     flex-direction: row;
     margin: 10px;
     text-align: center;
+    column-count: 3;
 }
