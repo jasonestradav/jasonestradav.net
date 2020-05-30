@@ -29,3 +29,17 @@
     text-align: center;
     column-count: 3;
 }
+.image {
+margin: 20px;
+}
+/*This css is for Chord C html*/
+#image1 {
+    margin-left: 33px;
+}
+#image2 {
+    margin-left: 33px;
+}
+.box1 {
+    column-count: 2;
+}
+/*End of Chord C html*/
