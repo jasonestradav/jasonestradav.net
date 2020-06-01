@@ -45,6 +45,10 @@ margin: 20px;
 #image2 {
     margin-left: 33px;
 }
+#image3 {
+    height: 330px;
+    width: 330px;
+}
 .box1 {
     column-count: 2;
 }
