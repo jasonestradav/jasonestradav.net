@@ -38,7 +38,16 @@
 .image {
 margin: 20px;
 }
-/*This css is for Chord C html*/
+.button {
+    padding: 12px 26px;
+    font-size: 24px;
+    border: navy;
+    border-radius: 5px;
+    background-color: navy;
+    margin: auto;
+    margin-top: 30px;
+}
+/*This css is for Chord html*/
 #image1 {
     margin-left: 33px;
 }
@@ -60,4 +69,4 @@ margin: 20px;
     font-size: 115%;
     line-height: 5.0;
 }
-/*End of Chord C html*/
+/*End of Chord html*/
